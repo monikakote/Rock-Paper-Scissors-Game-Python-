@@ -21,6 +21,7 @@ This is a simple Rock, Paper, Scissors Game built using Python where the player 
 
 2. 📝 Download or Create the Python File
    Copy the code from the Rock, Paper, Scissors game or download it as `rock_paper_scissors.py`.
+   
 
 3 ▶️ Run the Game
    Open a terminal or command prompt and navigate to the directory containing the Python script. Run the following command:
